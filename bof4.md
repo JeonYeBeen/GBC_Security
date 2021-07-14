@@ -72,7 +72,9 @@ if (innocent == KEY) {
 ![bof4 sub](img/bof4%20sub.png)
 
 위에 볼 수 있듯이 `innocent`와 `buf` 사이의 크기는 140 인 것을 알 수 있다. 
+
 ---
+
 ## 결과
 
 ![bof4 result](img/bof4%20result.png)

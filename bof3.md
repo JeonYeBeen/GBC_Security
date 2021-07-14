@@ -75,7 +75,9 @@ if 문을 확인하는 곳으로 이동해 `innocent`가 저장되어 있는 주소값을 확인한다. `rb
 ![bof3 sub](img/sub.png)
 
 두 주소값의 차이를 확인하면 140인 것을 알 수 있다.
+
 ---
+
 ## 결과
 
 ![bof3 result](img/result.png)
