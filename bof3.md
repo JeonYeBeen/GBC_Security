@@ -61,7 +61,7 @@ Buffer Overflow 방법을 사용할 것이다.
 ![bof3 rdi](img/bof3%20rdi.png)
 
 
-gets 함수에 breakpoint 를 걸어 rdi 레지스터에 저장된 값, 즉 문자열 끝을 가리키는 주소를 확인한다. 
+gets 함수에 breakpoint 를 걸어 buf, gets 함수의 첫번째 인자,를 담고 있는 rdi를 확인한다. 
 
 ![bof3 ino](img/bof3%20ino.png)
 
