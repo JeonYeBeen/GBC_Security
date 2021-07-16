@@ -4,7 +4,7 @@
 
 system 주소를 찾고 나가서(p system)
 memcmp((void*)addr, "/bin/sh\x00",8) -> system 함수 안에 /bin/sh 주소를 찾는다
-return address 에 system 함수 주소값을 넣는다.
+return address 에 system 함수 주소값을 넣는다. argument 로 /bin/sh을 넣어야 하기 때문.
 
 그러면 system이 실행된다.
 
@@ -26,3 +26,5 @@ while(memcmp((void*)addr, "/bin/sh\x00",8)){
     addr++;
 }
 printf(");
+
+0x7ffff7a52390
