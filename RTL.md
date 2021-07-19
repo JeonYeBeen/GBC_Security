@@ -26,5 +26,3 @@ while(memcmp((void*)addr, "/bin/sh\x00",8)){
     addr++;
 }
 printf(");
-
-0x7ffff7a52390
