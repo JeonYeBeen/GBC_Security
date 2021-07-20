@@ -16,3 +16,7 @@
 ## 3. [메모리 보호 기법 정리](Memory_Protect.md)
 
 ## 4. [Resister의 역할](Resister.md)
+
+## WEB Security
+- [MySQL 문법](Database.md)
+- [Web 언어](WEB.md)
