@@ -18,5 +18,5 @@
 ## 4. [Resister의 역할](Resister.md)
 
 ## WEB Security
-- [MySQL 문법](Database.md)
+- [MySQL 문법](MySQL.md)
 - [Web 언어](WEB.md)
