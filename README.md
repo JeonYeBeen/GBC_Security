@@ -2,8 +2,6 @@
 
 ## Security
 
-<br>
-
 ## 1. bof 정리
 - [bof3 정리](./system/bof3.md)
 - [bof4 정리](./system/bof4.md)
@@ -28,24 +26,16 @@
 
 ## 4. [Resister의 역할](./system/Resister.md)
 
-<br>
-
 ---
-
-<Br>
 
 ## WEB Security
 
-<br>
-
 ## 1. 모의 해킹 정리
 
-<br>
-
 - SQL Injection
-  - [SQL Injection(LOW)](./system/SQL_LOW.md) 
-  - [SQL Injection(MID)](./system/SQL_MID.md)
-  - [SQL Injection(HIGH)](./system/SQL_HIGH.md)
+  - [SQL Injection(LOW)](./web/SQL_LOW.md) 
+  - [SQL Injection(MID)](./web/SQL_MID.md)
+  - [SQL Injection(HIGH)](./web/SQL_HIGH.md)
 
 <Br>
 
