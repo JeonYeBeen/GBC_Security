@@ -1,6 +1,6 @@
 # SQL_Injection
 
-악의적인 sql문을 실행되게 함으로 데이터베이스를 비정상적으로 조작하는 code injection 공격 방법
+악의적인 sql문을 실행되게 함으로 데이터베이스를 비정상적으로 동작하게 하는 code injection 공격 방법
 
 ## 성공적인 sql injection
 
@@ -13,7 +13,7 @@ password : password' OR 1=1 --
 
 or
 
-id : admin' --
+id : admin' OR 1=1 --
 
 ## 보안 방법
 
