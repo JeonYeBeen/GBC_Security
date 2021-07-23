@@ -60,5 +60,5 @@
   
   <Br>
 
-- [MySQL 문법](./system/MySQL.md)
-- [Web 언어](./system/WEB.md)
+- [MySQL 문법](web/MySQL.md)
+- [Web 언어](web/WEB.md)
