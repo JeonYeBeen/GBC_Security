@@ -32,19 +32,33 @@
 
 ## 1. 모의 해킹 정리
 
-- SQL Injection
+- [SQL Injection](web/SQL_injection.md)
   - [SQL Injection(LOW)](./web/SQL_LOW.md) 
   - [SQL Injection(MID)](./web/SQL_MID.md)
   - [SQL Injection(HIGH)](./web/SQL_HIGH.md)
 
 <Br>
 
-- XSS Stored
+- [XSS Stored](web/XSS.md)
   - [XSS Stored(LOW)](web/XSS_LOW.md)
   - [XSS Stored(MID)](web/XSS_MID.md)
   - [XSS Stored(HIGH)](web/XSS_HIGH.md)
   
 <br>
+
+- [Command Injection](web/Command_Injection.md)
+  - [Command Injection(LOW)](web/Command_LOW.md)
+  - [Command Injection(MID)](web/Command_MID.md)
+  - [Command Injection(HIGH)](web/Command_HIGH.md)
+
+<br>
+
+- [File Upload](web/File_Upload.md)
+  - [File Upload(LOW)](web/FileUpload_low.md)
+  - [File Upload(MID)](web/FileUpload_mid.md)
+  - [File Upload(HIGH)](web/FileUpload_high.md)
+  
+  <Br>
 
 - [MySQL 문법](./system/MySQL.md)
 - [Web 언어](./system/WEB.md)
