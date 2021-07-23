@@ -86,6 +86,8 @@ INSERT INTO table_name (column1, column2, column3, ... )
 VALUES (value1, value2, value3, ... );
 ```
 
+이 때 정해지지 않은 열은 `NULL` 값이 들어가도 가도 되게 해야한다.!!!
+
 2. 열을 정해주지 않고 모든 열에 순서대로 값을 넣는다.
 
 ```mysql
